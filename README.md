@@ -60,5 +60,5 @@ Churn prevention allows companies to develop loyalty programs and retention camp
 ##### 4.The number of exit customers for credit card holders (1,424) was higher than for non-credit card holders (613).In Fair, there were 685 exit customers, the highest among all categories, and this number was 435.16% higher than in the Excellent category, which had the lowest exit customer count at 128.
 ##### 5.Across all five credit types, the number of exit customers ranged from 128 to 685.Exit customers are divided by gender with 44.08% being female and 55.92% being male.
 
-![Bank Analysis](https://github.com/Nikitasuryawanshi/Churn-Analysis-for-bank-using-PowerBI/assets/105000370/20f80494-764a-4300-af2c-947ed682fb83)
+https://github.com/Nikitasuryawanshi/Churn-Analysis-for-bank-using-PowerBI/assets/105000370/20f80494-764a-4300-af2c-947ed682fb83
 
