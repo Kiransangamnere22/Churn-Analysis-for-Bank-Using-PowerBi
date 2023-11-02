@@ -30,22 +30,22 @@
 ######  0 represents Inactive Member
 ###### o Estimated Salary—as with balance, people with lower salaries are more likely to leave the bank compared to those with higher salaries.
 ###### o Exited—whether or not the customer left the bank.
-  0 represents Retain 
-  1 represents Exit
-##### o Bank DOJ — date when the Customer associated/joined  with the bank.
+######  0 represents Retain 
+######  1 represents Exit
+######  Bank DOJ — date when the Customer associated/joined  with the bank.
 
 
 
 ### Data Gathering:
 
 Please use the following data assets to pull the data related to Bank customer and associated details.
-#### ActiveCustomer 
-#### Bank_Churn
-#### CreditCard
-#### CustomerInfo
-#### ExitCustomer
-#### Gender
-#### Geography
+##### ActiveCustomer 
+##### Bank_Churn
+##### CreditCard
+##### CustomerInfo
+##### ExitCustomer
+##### Gender
+##### Geography
 
 ### Churn Analysis:
 Analyse the data and bring out few insights on the customer Churn.
