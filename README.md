@@ -1,10 +1,9 @@
 ## Churn-Analysis-for-Bank-Using-PowerBi
 
-# Churn-Analysis-for-bank-using-PowerBI
-# Business Requirement Document
+
 ![png-transparent-south-indian-bank-bse-finance-bank-logo-india-bank-thumbnail](https://github.com/Nikitasuryawanshi/Churn-Analysis-for-bank-using-PowerBI/assets/105000370/76ec82c0-8d82-449b-89a9-cdc337e46a0e)
 
-
+## Business Requirement Document
 Data Dictionary
 RowNumber—corresponds to the record (row) number and has no effect on the output.
 CustomerId—contains random values and has no effect on customer leaving the bank.
