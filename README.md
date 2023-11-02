@@ -27,7 +27,7 @@
 ######  0 =represents non credit card holder
 ###### 14. IsActiveMember — active customers are less likely to leave the bank.
 ######  1 =represents Active Member
-######  0 =represents Inactive Member
+######  0 =represents Inactive Member
 ###### 15.Estimated Salary — as with balance, people with lower salaries are more likely to leave the bank compared to those with higher salaries.
 ###### 16.Exited — whether or not the customer left the bank.
 ######  0= represents Retain 
