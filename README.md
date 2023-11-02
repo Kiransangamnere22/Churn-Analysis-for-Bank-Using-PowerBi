@@ -39,13 +39,13 @@
 ### Data Gathering:
 
 Please use the following data assets to pull the data related to Bank customer and associated details.
-##### ActiveCustomer 
-##### Bank_Churn
-##### CreditCard
-##### CustomerInfo
-##### ExitCustomer
-##### Gender
-##### Geography
+###### ActiveCustomer 
+###### Bank_Churn
+###### CreditCard
+###### CustomerInfo
+###### ExitCustomer
+###### Gender
+###### Geography
 
 ### Churn Analysis:
 Analyse the data and bring out few insights on the customer Churn.
