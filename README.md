@@ -3,6 +3,12 @@
 
 ![png-transparent-south-indian-bank-bse-finance-bank-logo-india-bank-thumbnail](https://github.com/Nikitasuryawanshi/Churn-Analysis-for-bank-using-PowerBI/assets/105000370/76ec82c0-8d82-449b-89a9-cdc337e46a0e)
 
+
+### Churn Analysis:
+Analyse the data and bring out few insights on the customer Churn.
+It is advantageous for banks to know what leads a client towards the decision to leave the company.
+Churn prevention allows companies to develop loyalty programs and retention campaigns to keep as many customers as possible.
+
 ## Business Requirement Document
 ### Data Dictionary
 ##### 1.RowNumber — corresponds to the record (row) number and has no effect on the output.
@@ -47,10 +53,6 @@ Please use the following data assets to pull the data related to Bank customer a
 ###### Gender
 ###### Geography
 
-### Churn Analysis:
-Analyse the data and bring out few insights on the customer Churn.
-It is advantageous for banks to know what leads a client towards the decision to leave the company.
-Churn prevention allows companies to develop loyalty programs and retention campaigns to keep as many customers as possible.
 
 ## insights:
 
